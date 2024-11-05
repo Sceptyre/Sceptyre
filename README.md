@@ -2,7 +2,7 @@
 I'm probably working on automating some it/ops problem or exposing self-service functionality to users.  
 
 While you're here, check out some of the following public resources if you're really interested in getting started with combining code and ops (no relationship, just useful for newbies).
-> *The best time to plant a tree was 30 years ago. The next best time is now... Although with tech, best time was probably more like a month ago*
+> *The best time to plant a tree was 30 years ago. The next best time is now... Although with tech, best time was probably more like a week ago*
 
 - Want to learn basics of python?  
   [Digital Ocean - Python 3 Tutorial Series](https://www.digitalocean.com/community/tutorial-series/how-to-code-in-python-3)
